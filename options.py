@@ -5,8 +5,8 @@ Parse input arguments
 
 import argparse
 
-__author__ = 'Pau Riba'
-__email__ = 'priba@cvc.uab.cat'
+__author__ = "Nadeem Kajla"
+__email__ = "nadeem.kajla@gmail.com"
 
 
 class Options():
