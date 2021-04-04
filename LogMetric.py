@@ -9,8 +9,8 @@ import torch
 from tensorboardX import SummaryWriter
 import os
 
-__author__ = "Pau Riba"
-__email__ = "priba@cvc.uab.cat"
+__author__ = "Nadeem Kajla"
+__email__ = "nadeem.kajla@gmail.com"
 
 
 class AverageMeter(object):
