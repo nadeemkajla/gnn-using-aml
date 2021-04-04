@@ -1,0 +1,2 @@
+from .MpnnGGNN import MpnnGGNN
+
