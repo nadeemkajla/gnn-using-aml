@@ -2,9 +2,9 @@
 from __future__ import print_function, division
 
 """
-Siamese Neural Message Passing network.
+Spatial Based Siamese DGNN.
 
-Learn a Siamese neural network training jointly with a Neural message passing network.
+Learn a Siamese neural network training jointly with a deep graph neural network.
 """
 
 # Python modules
@@ -24,8 +24,8 @@ import LossFunction
 
 import pdb
 
-__author__ = "Pau Riba"
-__email__ = "priba@cvc.uab.cat"
+__author__ = "Nadeem Kajla"
+__email__ = "nadeem.kajla@gmail.com"
 
 
 def train(train_loader, net, optimizer, cuda, criterion, epoch):
