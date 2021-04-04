@@ -18,8 +18,8 @@ from LogMetric import AverageMeter
 from utils import knn
 import GraphEditDistance
 
-__author__ = "Pau Riba"
-__email__ = "priba@cvc.uab.cat"
+__author__ = "Nadeem Kajla"
+__email__ = "nadeem.kajla@gmail.com"
 
 
 def test(test_loader, train_loader, net, cuda, evaluation):
