@@ -25,8 +25,8 @@ from utils import save_checkpoint, load_checkpoint, accuracy, knn, write_gxl, co
 import models
 import GraphEditDistance
 
-__author__ = "Pau Riba"
-__email__ = "priba@cvc.uab.cat"
+__author__ = "Nadeem Kajla"
+__email__ = "nadeem.kajla@gmail.com"
 
 
 
