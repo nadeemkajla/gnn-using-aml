@@ -25,8 +25,8 @@ from utils import load_checkpoint
 import pdb
 
 
-__author__ = "Pau Riba"
-__email__ = "priba@cvc.uab.cat"
+__author__ = "Nadeem Kajla"
+__email__ = "nadeem.kajla@gmail.com"
 
 
 def plot_graph(v, am, outname):
