@@ -2,9 +2,9 @@
 from __future__ import print_function, division
 
 """
-Siamese Neural Message Passing distance.
+Spatial Based Siamese DGNN.
 
-Learn a Graph Edit Distance training jointly with a Neural message passing network.
+Learn a Graph Edit Distance training jointly with a deep graph neural network.
 """
 
 # Python modules
